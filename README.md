@@ -1,5 +1,8 @@
 # HoriSEOon Marketing Agency
 
+![image](https://github.com/colearrington98/Code-Fixup/assets/119268105/3bafb185-9518-4ca0-a0d7-b2a9745585fe)
+
+Deployed Link https://colearrington98.github.io/Code-Fixup/
 
 HoriSEOon is a marketing agency website optimized for search engines and following web accessibility standards. The project aims to ensure that the website is accessible to all users, including those with disabilities, by utilizing semantic HTML elements, providing descriptive alt attributes for images, maintaining a logical structure, and more.
 
